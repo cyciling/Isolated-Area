@@ -1,0 +1,15 @@
+{
+    "content":
+    [
+        {
+            "type":"creativeTab",
+            "entries":
+            [
+                {
+                    "id" : "isolatedarea",
+                    "icon" : "isolatedarea:isolatedarea:item_blade_long:0"
+                }
+            ]
+        }
+    ]
+}

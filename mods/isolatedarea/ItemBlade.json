@@ -1,0 +1,43 @@
+{
+    "items":
+    [
+        {
+            "type": "item:simple",
+            "entries": 
+            [
+                {
+                    "id" : "item_blade_long",
+                    "model" : 
+                    {
+                        "0" : "isolatedarea:item_blade_long_0",      
+                        "1" : "isolatedarea:item_blade_long_1",
+                        "2" : "isolatedarea:item_blade_long_2",
+                        "3" : "isolatedarea:item_blade_long_3",
+                        "4" : "isolatedarea:item_blade_long_4",
+                        "5" : "isolatedarea:item_blade_long_5"
+                    },
+                    "creativeTab" : "isolatedarea",
+                    "burnTime": 100,
+                    "subtypes" : [ 0, 1, 2, 3, 4, 5 ]
+                },
+                {
+                    "id" : "item_blade_short",
+                    "model" : 
+                    {
+                        "0" : "isolatedarea:item_blade_short_0",
+                        "1" : "isolatedarea:item_blade_short_1",
+                        "2" : "isolatedarea:item_blade_short_2",
+                        "3" : "isolatedarea:item_blade_short_3",
+                        "4" : "isolatedarea:item_blade_short_4",
+                        "5" : "isolatedarea:item_blade_short_5"
+                    },
+                    "creativeTab" : "isolatedarea",
+                    "burnTime": 100,
+                    "subtypes" : [ 0, 1, 2, 3, 4, 5 ]
+                }
+            ]
+        }
+    ]
+    
+    
+}

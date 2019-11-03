@@ -1,0 +1,10 @@
+UniqueId, UnlocalizedName, LocalizedName(if exist)
+-1, the_nether, the_nether
+0, overworld, overworld
+1, the_end, the_end
+2, Acheron, Acheron
+3, Varda, Varda
+56, Tofu World, Tofu World
+144, CompactMachines, CompactMachines
+4598, nc_wasteland, nc_wasteland
+#output time is 2 ms.

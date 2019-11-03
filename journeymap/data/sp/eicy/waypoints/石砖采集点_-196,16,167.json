@@ -1,0 +1,18 @@
+{
+  "id": "石砖采集点_-196,16,167",
+  "name": "石砖采集点",
+  "icon": "waypoint-normal.png",
+  "x": -196,
+  "y": 16,
+  "z": 167,
+  "r": 191,
+  "g": 133,
+  "b": 144,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

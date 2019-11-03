@@ -1,0 +1,101 @@
+RegistryName, LocalizedName(if exist), ParentAdvancementLocalizedName
+triumph:vanilla/nether/root, triumph:vanilla/nether/root, No Parent
+triumph:example/example_brewed_potion, triumph:example/example_brewed_potion, triumph:example/root
+triumph:vanilla/end/respawn_dragon, triumph:vanilla/end/respawn_dragon, triumph:vanilla/end/kill_dragon
+triumph:vanilla/husbandry/bred_all_animals, triumph:vanilla/husbandry/bred_all_animals, triumph:vanilla/husbandry/breed_an_animal
+triumph:vanilla/story/form_obsidian, triumph:vanilla/story/form_obsidian, triumph:vanilla/story/lava_bucket
+triumph:vanilla/story/mine_diamond, triumph:vanilla/story/mine_diamond, triumph:vanilla/story/iron_tools
+triumph:vanilla/adventure/adventuring_time, triumph:vanilla/adventure/adventuring_time, triumph:vanilla/adventure/sleep_in_bed
+triumph:vanilla/recipes/brewing/fermented_spider_eye, triumph:vanilla/recipes/brewing/fermented_spider_eye, triumph:vanilla/recipes/root
+triumph:vanilla/story/smelt_iron, triumph:vanilla/story/smelt_iron, triumph:vanilla/story/upgrade_tools
+triumph:vanilla/end/find_end_city, triumph:vanilla/end/find_end_city, triumph:vanilla/end/enter_end_gateway
+triumph:example/example_placed_block, triumph:example/example_placed_block, triumph:example/root
+triumph:vanilla/husbandry/tame_an_animal, triumph:vanilla/husbandry/tame_an_animal, triumph:vanilla/husbandry/root
+triumph:vanilla/story/enchant_item, triumph:vanilla/story/enchant_item, triumph:vanilla/story/mine_diamond
+triumph:example/example_construct_beacon, triumph:example/example_construct_beacon, triumph:example/root
+triumph:vanilla/end/levitate, triumph:vanilla/end/levitate, triumph:vanilla/end/find_end_city
+triumph:vanilla/adventure/shoot_arrow, triumph:vanilla/adventure/shoot_arrow, triumph:vanilla/adventure/kill_a_mob
+triumph:example/example_slept_in_bed, triumph:example/example_slept_in_bed, triumph:example/example_enter_biome
+triumph:example/example_killed_entity, triumph:example/example_killed_entity, triumph:example/root
+triumph:example/example_better_advancement_colors, triumph:example/example_better_advancement_colors, triumph:example/root
+triumph:example/example_completed_advancement, triumph:example/example_completed_advancement, triumph:example/example_enter_dimension
+triumph:vanilla/story/enter_the_nether, triumph:vanilla/story/enter_the_nether, triumph:vanilla/story/form_obsidian
+triumph:vanilla/adventure/trade, triumph:vanilla/adventure/trade, triumph:vanilla/adventure/root
+triumph:vanilla/adventure/summon_iron_golem, triumph:vanilla/adventure/summon_iron_golem, triumph:vanilla/adventure/trade
+triumph:example/example_item_crafted, triumph:example/example_item_crafted, triumph:example/root
+triumph:example/example_killed_by_entity, triumph:example/example_killed_by_entity, triumph:example/root
+triumph:example/example_repeatable, triumph:example/example_repeatable, triumph:example/root
+triumph:example/example_destroy_block, triumph:example/example_destroy_block, triumph:example/root
+triumph:vanilla/nether/summon_wither, triumph:vanilla/nether/summon_wither, triumph:vanilla/nether/get_wither_skull
+triumph:vanilla/story/mine_stone, triumph:vanilla/story/mine_stone, triumph:vanilla/story/root
+triumph:vanilla/story/enter_the_end, triumph:vanilla/story/enter_the_end, triumph:vanilla/story/follow_ender_eye
+triumph:example/example_recipe_unlocked, triumph:example/example_recipe_unlocked, triumph:example/root
+triumph:example/immersiveengineering/example_multiblock_formed, triumph:example/immersiveengineering/example_multiblock_formed, triumph:example/root
+triumph:vanilla/story/iron_tools, triumph:vanilla/story/iron_tools, triumph:vanilla/story/smelt_iron
+triumph:vanilla/story/root, triumph:vanilla/story/root, No Parent
+triumph:vanilla/adventure/totem_of_undying, triumph:vanilla/adventure/totem_of_undying, triumph:vanilla/adventure/kill_a_mob
+triumph:example/example_break_block, triumph:example/example_break_block, triumph:example/root
+triumph:vanilla/adventure/sleep_in_bed, triumph:vanilla/adventure/sleep_in_bed, triumph:vanilla/adventure/root
+triumph:vanilla/husbandry/breed_an_animal, triumph:vanilla/husbandry/breed_an_animal, triumph:vanilla/husbandry/root
+triumph:vanilla/nether/uneasy_alliance, triumph:vanilla/nether/uneasy_alliance, triumph:vanilla/nether/return_to_sender
+triumph:vanilla/end/dragon_breath, triumph:vanilla/end/dragon_breath, triumph:vanilla/end/kill_dragon
+triumph:vanilla/end/dragon_egg, triumph:vanilla/end/dragon_egg, triumph:vanilla/end/kill_dragon
+triumph:vanilla/recipes/brewing/speckled_melon, triumph:vanilla/recipes/brewing/speckled_melon, triumph:vanilla/recipes/root
+triumph:example/root, triumph:example/root, No Parent
+triumph:example/example_count, triumph:example/example_count, triumph:example/root
+triumph:vanilla/nether/brew_potion, triumph:vanilla/nether/brew_potion, triumph:vanilla/nether/obtain_blaze_rod
+triumph:vanilla/story/follow_ender_eye, triumph:vanilla/story/follow_ender_eye, triumph:vanilla/story/enter_the_nether
+triumph:vanilla/story/shiny_gear, triumph:vanilla/story/shiny_gear, triumph:vanilla/story/mine_diamond
+triumph:vanilla/recipes/brewing/cauldron, triumph:vanilla/recipes/brewing/cauldron, triumph:vanilla/recipes/root
+triumph:vanilla/nether/all_effects, triumph:vanilla/nether/all_effects, triumph:vanilla/nether/all_potions
+triumph:vanilla/nether/create_full_beacon, triumph:vanilla/nether/create_full_beacon, triumph:vanilla/nether/create_beacon
+triumph:vanilla/end/enter_end_gateway, triumph:vanilla/end/enter_end_gateway, triumph:vanilla/end/kill_dragon
+triumph:vanilla/end/root, triumph:vanilla/end/root, No Parent
+triumph:vanilla/recipes/root, triumph:vanilla/recipes/root, No Parent
+triumph:example/example_enter_dimension, triumph:example/example_enter_dimension, triumph:example/root
+triumph:vanilla/nether/fast_travel, triumph:vanilla/nether/fast_travel, triumph:vanilla/nether/root
+triumph:vanilla/story/upgrade_tools, triumph:vanilla/story/upgrade_tools, triumph:vanilla/story/mine_stone
+triumph:example/example_right_click_block, triumph:example/example_right_click_block, triumph:example/root
+triumph:vanilla/recipes/brewing/brewing_stand, triumph:vanilla/recipes/brewing/brewing_stand, triumph:vanilla/recipes/root
+triumph:example/example_bred_animals, triumph:example/example_bred_animals, triumph:example/root
+triumph:vanilla/adventure/root, triumph:vanilla/adventure/root, No Parent
+triumph:example/example_hurt_entity, triumph:example/example_hurt_entity, triumph:example/root
+triumph:vanilla/adventure/kill_a_mob, triumph:vanilla/adventure/kill_a_mob, triumph:vanilla/adventure/root
+triumph:example/example_location_worldtype, triumph:example/example_location_worldtype, triumph:example/root
+triumph:example/example_tame_animal, triumph:example/example_tame_animal, triumph:example/root
+triumph:vanilla/recipes/brewing/golden_carrot, triumph:vanilla/recipes/brewing/golden_carrot, triumph:vanilla/recipes/root
+triumph:vanilla/husbandry/break_diamond_hoe, triumph:vanilla/husbandry/break_diamond_hoe, triumph:vanilla/husbandry/plant_seed
+triumph:vanilla/end/kill_dragon, triumph:vanilla/end/kill_dragon, triumph:vanilla/end/root
+triumph:vanilla/husbandry/plant_seed, triumph:vanilla/husbandry/plant_seed, triumph:vanilla/husbandry/root
+triumph:example/example_enchanted_item, triumph:example/example_enchanted_item, triumph:example/root
+triumph:vanilla/story/cure_zombie_villager, triumph:vanilla/story/cure_zombie_villager, triumph:vanilla/story/enter_the_nether
+triumph:vanilla/nether/return_to_sender, triumph:vanilla/nether/return_to_sender, triumph:vanilla/nether/root
+triumph:vanilla/husbandry/root, triumph:vanilla/husbandry/root, No Parent
+triumph:example/example_consume_item, triumph:example/example_consume_item, triumph:example/root
+triumph:vanilla/nether/get_wither_skull, triumph:vanilla/nether/get_wither_skull, triumph:vanilla/nether/find_fortress
+triumph:vanilla/adventure/kill_all_mobs, triumph:vanilla/adventure/kill_all_mobs, triumph:vanilla/adventure/kill_a_mob
+triumph:vanilla/nether/all_potions, triumph:vanilla/nether/all_potions, triumph:vanilla/nether/brew_potion
+triumph:vanilla/story/obtain_armor, triumph:vanilla/story/obtain_armor, triumph:vanilla/story/smelt_iron
+triumph:vanilla/adventure/sniper_duel, triumph:vanilla/adventure/sniper_duel, triumph:vanilla/adventure/shoot_arrow
+triumph:example/example_left_click_block, triumph:example/example_left_click_block, triumph:example/root
+triumph:vanilla/nether/find_fortress, triumph:vanilla/nether/find_fortress, triumph:vanilla/nether/root
+triumph:vanilla/nether/create_beacon, triumph:vanilla/nether/create_beacon, triumph:vanilla/nether/summon_wither
+triumph:example/example_right_click_item, triumph:example/example_right_click_item, triumph:example/root
+triumph:example/example_impossible, triumph:example/example_impossible, triumph:example/root
+triumph:vanilla/nether/obtain_blaze_rod, triumph:vanilla/nether/obtain_blaze_rod, triumph:vanilla/nether/find_fortress
+triumph:example/example_enter_biome, triumph:example/example_enter_biome, triumph:example/root
+triumph:example/example_player_death, triumph:example/example_player_death, triumph:example/root
+triumph:example/example_enter_block, triumph:example/example_enter_block, triumph:example/root
+triumph:vanilla/story/deflect_arrow, triumph:vanilla/story/deflect_arrow, triumph:vanilla/story/obtain_armor
+triumph:example/example_location_dimid, triumph:example/example_location_dimid, triumph:example/root
+triumph:vanilla/recipes/brewing/blaze_powder, triumph:vanilla/recipes/brewing/blaze_powder, triumph:vanilla/recipes/root
+triumph:example/example_harvest_block, triumph:example/example_harvest_block, triumph:example/root
+triumph:vanilla/recipes/brewing/magma_cream, triumph:vanilla/recipes/brewing/magma_cream, triumph:vanilla/recipes/root
+triumph:vanilla/recipes/brewing/glass_bottle, triumph:vanilla/recipes/brewing/glass_bottle, triumph:vanilla/recipes/root
+triumph:vanilla/end/elytra, triumph:vanilla/end/elytra, triumph:vanilla/end/find_end_city
+triumph:example/example_inventory_changed, triumph:example/example_inventory_changed, triumph:example/root
+triumph:vanilla/story/lava_bucket, triumph:vanilla/story/lava_bucket, triumph:vanilla/story/smelt_iron
+triumph:example/example_all_rewards, triumph:example/example_all_rewards, triumph:example/root
+triumph:vanilla/husbandry/balanced_diet, triumph:vanilla/husbandry/balanced_diet, triumph:vanilla/husbandry/plant_seed
+triumph:example/example_villager_trade, triumph:example/example_villager_trade, triumph:example/root
+#output time is 2 ms.

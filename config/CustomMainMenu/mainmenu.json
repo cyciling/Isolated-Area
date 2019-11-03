@@ -1,0 +1,136 @@
+{
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text":" ",
+            "texture":"cmm:button/button.png",
+            "posX":-256,
+            "posY":23,
+            "width":42.5,
+            "height":80,
+            "imageWidth":85,
+            "imageHeight":160,
+            "alignment":"button",
+            "pressSound":"cmm:button/botton_music.ogg",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text":" ",
+            "texture":"cmm:button/online.png",
+            "posX":-75,
+            "posY":75,
+            "width":46.5,
+            "height":46.3125,
+            "imageWidth":124,
+            "imageHeight":123.5,
+            "alignment":"top_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+            
+        "setting":
+        {
+            "text":" ",
+            "texture":"cmm:button/setting.png",
+            "posX":-75,
+            "posY":125,
+            "width":46.5,
+            "height":46.3125,
+            "imageWidth":124,
+            "imageHeight":123.5,
+            "alignment":"top_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "exit":
+        {
+            "text":" ",
+            "texture":"cmm:button/exit.png",
+            "posX":-75,
+            "posY":375,
+            "width":46.5,
+            "height":46.3125,
+            "imageWidth":124,
+            "imageHeight":123.5,
+            "alignment":"top_right",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text":" ",
+            "texture":"cmm:button/lang.png",
+            "posX":-75,
+            "posY":225,
+            "width":46.5,
+            "height":46.3125,
+            "imageWidth":124,
+            "imageHeight":123.5,
+            "alignment":"top_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+
+        "creater":
+        {
+            "text":" ",
+            "texture":"cmm:button/creater.png",
+            "posX":-75,
+            "posY":175,
+            "width":46.5,
+            "height":46.3125,
+            "imageWidth":124,
+            "imageHeight":123.5,
+            "alignment":"top_right",
+            "action":
+            {
+                "type":"openLink",
+                "link":"https://www.mcbbs.net/home.php?mod=space&uid=2139659"
+            }
+     },
+        
+        "refresh":
+        {
+            "text" : " ",
+            "posX" : -154,
+            "posY" : 132,
+            "width" : 0,
+            "height" : 0,
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+    
+        "other":
+        {
+                "background":
+                {
+                    "image":"cmm:background/background.png",
+                    "mode":"fill"
+                }
+         }
+        
+}

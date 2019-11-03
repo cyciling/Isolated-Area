@@ -1,0 +1,1 @@
+vanilla.seeds.addSeed(<minecraft:stick> % 25);

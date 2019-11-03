@@ -1,0 +1,1 @@
+mods.initialinventory.InvHandler.addStartingItem(<compactmachines3:fieldprojector> * 4);

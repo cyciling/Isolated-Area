@@ -1,0 +1,7 @@
+{
+    "parent":"item/generated",
+    "textures":
+    {
+        "layer0":"isolatedarea:items/item_blade_long_5"
+    }
+}
